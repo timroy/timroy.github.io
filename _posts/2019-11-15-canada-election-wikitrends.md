@@ -11,6 +11,17 @@ mathjax: "true"
 
 I was playing with the [wikipediatrend](https://github.com/petermeissner/wikipediatrend0) package in R, and thought it would be cool to compare the searches for each Canadian political party and leader in English and French for the 2011, 2015, and 2019 elections using [gganimate](https://github.com/thomasp85/gganimate).
 
+I downloaded the trends for the 2 weeks leading up to the election day and the day after for the three last ones. I plot tall and wide barplots side by side and animate over the three elections.
+
+| Party |   Leader 2011    |  Leader 2015     | Leader 2019      |
+  
+|:-----:|:----------------:|:----------------:|:----------------:|
+|   BQ  | Gilles Duceppes  | Gilles Duceppes  |   Y-F Blachet    |
+|  NDP  | Jack Layton      |  Tom Mulcair     |  Jagmeet Singh   |
+|  Lib  | Michael Ignatief | Justin Trudeau   | Justin Trudeau   |
+|  Con  | Stephen Harper   | Stephen Harper   | Andrew Scheer    |
+| Green | Elizabeth May    | Elizabeth May    | Elizabeth May    |
+
 ## English Wikipedia Searches for Leaders
 ![](https://i.imgur.com/aGg1uub.gif)
 
