@@ -12,6 +12,8 @@ mathjax: "true"
 I was playing with the [wikipediatrend](https://github.com/petermeissner/wikipediatrend0) package in R, and thought it would be cool to compare the searches for each Canadian political party and leader in English and French for the 2011, 2015, and 2019 elections using [gganimate](https://github.com/thomasp85/gganimate).
 
 ## English Wikipedia Searches for Leaders
+![](/images/lead_anim_en.gif)
+
 <IMG SRC="/images/lead_anim_en.gif">
 
 <img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width=250/>
