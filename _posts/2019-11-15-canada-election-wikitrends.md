@@ -38,7 +38,7 @@ Jagmeet Singh got more searches than Trudeau in 2019 and Andrew Scheer received 
 ![](https://i.imgur.com/WFxqUlW.gif)
 
 ## English Wikipedia Searches for Parties
-![](https://i.imgur.com/KIbhCSr.gif)
+![](https://i.imgur.com/h45OIix.gif)
 
 ## French Wikipedia Searches for Parties
 ![](https://i.imgur.com/2pGI6xg.gif)
