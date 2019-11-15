@@ -5,8 +5,7 @@ header:
   image: "/images/plateau_banner.jpg"
 ---
 
-
-
+<h3> CV: <a href="/files/Professional_CV.pdf" target="_blank" >View in browser</a> | <a href="/files/Professional_CV.pdf" download> Download</a> </h3>
 
 I am a graduate data scientist and political scientist based in Montreal. 
 
