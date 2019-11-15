@@ -88,7 +88,7 @@ author:
   avatar           : "/images/Russian_evening_cropped.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Montreal, QC"
-  email            : "roy.tim@outlook.com
+  email            : "roy.tim@outlook.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
