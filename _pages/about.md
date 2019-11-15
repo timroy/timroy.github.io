@@ -4,7 +4,8 @@ permalink: /about/
 header:
   image: "/images/zakim.jpg"
 ---
-<a href="files/Professional_CV.pdf" download> Download my CV</a>
+<a href="files/Professional_CV.pdf" download> Download my CV</a> 
+<a href="/file/Professional_CV.pdf" class="download" title="Download CV as PDF"> View my CV in your Browser</a>
 
 I am a graduate data scientist and political scientist based in Montreal. 
 
