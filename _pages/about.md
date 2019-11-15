@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/plateau_banner.jpg"
 ---
 <a href="files/Professional_CV.pdf" download> Download my CV</a> 
 
