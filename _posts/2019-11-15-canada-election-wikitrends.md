@@ -1,6 +1,6 @@
 ---
 title: "Canadian Election Wikipedia Trends"
-date = "2019-11-15"
+date = 2019-11-15
 tags: [wikipediatrend, ggplot2, gganimate, R, Canada, Canadian Elections]
 header:
   image:  "/images/canada-wikitrends/canada_leaders_crop.jpg"
