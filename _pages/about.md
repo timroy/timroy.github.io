@@ -7,7 +7,7 @@ header:
 <a href="files/Professional_CV.pdf" download> Download my CV</a> 
 
 <div class="cv">
-		<a href="/Professional_CV.pdf" class="download" title="Download CV as PDF">Download my CV</a>
+		<a href="files/Professional_CV.pdf" class="download" title="Download CV as PDF">Download my CV</a>
  </div>
 
 I am a graduate data scientist and political scientist based in Montreal. 
