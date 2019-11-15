@@ -18,7 +18,7 @@ I was playing with the [wikipediatrend](https://github.com/petermeissner/wikiped
 ![](https://i.imgur.com/KIbhCSr.gif)
 
 ## French Wikipedia Searches for Leaders
-![](https://i.imgur.com/2pGI6xg.gif)
+![](https://i.imgur.com/WFxqUlW.gif)
 
 ## French Wikipedia Searches for Parties
-![](https://i.imgur.com/WFxqUlW.gif)
+![](https://i.imgur.com/2pGI6xg.gif)
