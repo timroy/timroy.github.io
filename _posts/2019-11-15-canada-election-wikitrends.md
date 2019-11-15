@@ -26,7 +26,12 @@ I downloaded the trends for the 2 weeks leading up to the election day and the d
 ## English Wikipedia Searches for Leaders
 ![](https://i.imgur.com/aGg1uub.gif)
 
+2011 was the most equal election year for English wikipedia searches, with most people interested Stephen Harper, then Jack Layton, and then Michael Ignatieff. A significant portion were also searching for Gilles Duceppes and Elizabeth May.
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
+## French Wikipedia Searches for Parties
+![](https://i.imgur.com/2pGI6xg.gif)
 
 ## English Wikipedia Searches for Parties
 ![](https://i.imgur.com/KIbhCSr.gif)
@@ -34,5 +39,4 @@ I downloaded the trends for the 2 weeks leading up to the election day and the d
 ## French Wikipedia Searches for Leaders
 ![](https://i.imgur.com/WFxqUlW.gif)
 
-## French Wikipedia Searches for Parties
-![](https://i.imgur.com/2pGI6xg.gif)
+
