@@ -4,9 +4,9 @@ permalink: /about/
 header:
   image: "/images/plateau_banner.jpg"
 ---
-<a href="/files/Professional_CV.pdf" download> Download my CV</a>
 
-<a href="/files/Professional_CV.pdf" target="_blank" >View my CV in your browser</a>
+
+
 
 I am a graduate data scientist and political scientist based in Montreal. 
 
