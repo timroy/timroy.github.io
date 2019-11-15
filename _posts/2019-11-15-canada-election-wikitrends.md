@@ -15,7 +15,7 @@ I downloaded the trends for the 2 weeks leading up to the election day and the d
 
 | Party |   Leader 2011    |  Leader 2015     | Leader 2019      |
 |:-----:|:----------------:|:----------------:|:----------------:|
-|   BQ  | Gilles Duceppes  | Gilles Duceppes  |   Y-F Blachet    |
+|   BQ  | Gilles Duceppes  | Gilles Duceppes  |   Y-F Blanchet   |
 |  NDP  | Jack Layton      |  Tom Mulcair     |  Jagmeet Singh   |
 |  Lib  | Michael Ignatief | Justin Trudeau   | Justin Trudeau   |
 |  Con  | Stephen Harper   | Stephen Harper   | Andrew Scheer    |
