@@ -13,3 +13,12 @@ I was playing with the [wikipediatrend](https://github.com/petermeissner/wikiped
 
 ## English Wikipedia Searches for Leaders
 ![](https://i.imgur.com/aGg1uub.gif)
+
+## English Wikipedia Searches for Parties
+![](https://i.imgur.com/KIbhCSr.gif)
+
+## French Wikipedia Searches for Leaders
+![](https://i.imgur.com/2pGI6xg.gif)
+
+## French Wikipedia Searches for Parties
+![](https://i.imgur.com/WFxqUlW.gif)
