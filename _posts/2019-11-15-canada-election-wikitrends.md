@@ -13,7 +13,8 @@ I was playing with the [wikipediatrend](https://github.com/petermeissner/wikiped
 
 I downloaded the trends for the 2 weeks leading up to the election day and the day after for the three last ones. I plot tall and wide barplots side by side and animate over the three elections.
 
-| Party |   Leader 2011    |  Leader 2015     | Leader 2019      |
+### Party Leaders for Each Election
+| Party |   2011           |         2015     |        2019      |
 |:-----:|:----------------:|:----------------:|:----------------:|
 |   BQ  | Gilles Duceppes  | Gilles Duceppes  |   Y-F Blanchet   |
 |  NDP  | Jack Layton      |  Tom Mulcair     |  Jagmeet Singh   |
