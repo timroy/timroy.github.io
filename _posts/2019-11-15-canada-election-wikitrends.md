@@ -13,3 +13,5 @@ I was playing with the [wikipediatrend](https://github.com/petermeissner/wikiped
 
 ## English Wikipedia Searches for Leaders
 <IMG SRC="/images/lead_anim_en.gif">
+
+<img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width=250/>
