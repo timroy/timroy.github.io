@@ -9,10 +9,6 @@ header:
 <div class="cv">
 		<a href="/files/Professional_CV.pdf" class="download" title="Download CV as PDF">Download my CV</a>
  </div>
- 
- ome text and [here is possible to download the file in PDF][1]
-
-[1]:{{ site.url }}/files/Professional_CV.pdf
 
 I am a graduate data scientist and political scientist based in Montreal. 
 
