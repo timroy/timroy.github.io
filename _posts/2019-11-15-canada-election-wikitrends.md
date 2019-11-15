@@ -14,6 +14,7 @@ I was playing with the [wikipediatrend](https://github.com/petermeissner/wikiped
 I downloaded the trends for the 2 weeks leading up to the election day and the day after for the three last elections. I plot tall and wide barplots side by side and animate over the three elections. Every year, the searches steadily rise in the days leading up to the election, jump on the day of the election, and **EXPLODE** the day after. Let's see what we can learn about public interest and politicians and party popularity through these animations.
 
 ### Party Leaders for Each Election
+
 | Party |   2011           |         2015     |        2019      |
 |:-----:|:----------------:|:----------------:|:----------------:|
 |   BQ  | Gilles Duceppes  | Gilles Duceppes  |   Y-F Blanchet   |
@@ -24,6 +25,8 @@ I downloaded the trends for the 2 weeks leading up to the election day and the d
 
 ## English Wikipedia Searches for Leaders
 ![](https://i.imgur.com/aGg1uub.gif)
+
+
 
 ## English Wikipedia Searches for Parties
 ![](https://i.imgur.com/KIbhCSr.gif)
