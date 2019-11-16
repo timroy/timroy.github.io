@@ -4,8 +4,8 @@ date: 2019-11-15
 tags: [wikipediatrend, gganimate, ggplot2, R, Canada, Canadian Elections]
 header:
   image: "/images/canada-wikitrends/canada_leaders_crop.jpg"
-excerpt: "wikipediatrend, gganimate, ggplot2, R, Canada, Canadian Elections"
-teaser: /images/canada-wikitrends/canada_leaders_crop.jpg
+  excerpt: "wikipediatrend, gganimate, ggplot2, R, Canada, Canadian Elections"
+  teaser: images/canada-wikitrends/canada_leaders_crop.jpg
 mathjax: "true"
 ---
 
