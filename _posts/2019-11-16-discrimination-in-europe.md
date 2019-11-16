@@ -19,12 +19,12 @@ I decided to plot the proportion of ethnic minorities who feel discriminated aga
 
 # Discrimination of Ethnic Minorities
 
-## Discrimination in France
+## Discrimination of Minorities in France
 ![](https://i.imgur.com/UTiWXh9.gif)
 
 ![](https://i.imgur.com/oMJYGXS.gif)
 
-## Discrimination in England
+## Discrimination of Minorities in England
 ![](https://i.imgur.com/hACryzm.gif)
 
 ![](https://i.imgur.com/4HHaUGr.gif)
@@ -32,12 +32,12 @@ I decided to plot the proportion of ethnic minorities who feel discriminated aga
 # Discrimination of Muslims
 I decided to repeat the above step, but by subsetting for Muslims only. In some rounds of the survey, no respondents were Muslim.
 
-## Muslim discrimination in France
+## Discrimination of Muslims in France
 ![](https://i.imgur.com/kQK7Gbx.gif)
 
 ![](https://i.imgur.com/NfPcjp7.gif)
 
-## Muslim discrimination in France
+## Discrimination of Muslims in England
 ![](https://i.imgur.com/pY47OiF.gif)
 
 ![](https://i.imgur.com/2TV41j8.gif)
