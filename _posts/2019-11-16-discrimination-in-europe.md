@@ -14,6 +14,7 @@ I am working on a project right now for a class at Sciences Po about discriminat
 I decided to plot the proportion of ethnic minorities who feel discriminated against in their country for France and England over time. The plots animate over time, and over different forms of discrimination. Bars represent 95% confidence intervals. 
 
 | Round | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | Year | 2002 | 2004 | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2018 |
 
 ## Discrimination in France
