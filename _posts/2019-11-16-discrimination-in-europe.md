@@ -17,6 +17,8 @@ I decided to plot the proportion of ethnic minorities who feel discriminated aga
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | **Year** | 2002 | 2004 | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2018 |
 
+# Discrimination of Ethnic Minorities
+
 ## Discrimination in France
 ![](https://i.imgur.com/UTiWXh9.gif)
 
@@ -26,3 +28,16 @@ I decided to plot the proportion of ethnic minorities who feel discriminated aga
 ![](https://i.imgur.com/hACryzm.gif)
 
 ![](https://i.imgur.com/4HHaUGr.gif)
+
+# Discrimination of Muslims
+I decided to repeat the above step, but by subsetting for Muslims only. In some rounds of the survey, no respondents were Muslim.
+
+## Muslim discrimination in France
+![](https://i.imgur.com/kQK7Gbx.gif)
+
+![](https://i.imgur.com/NfPcjp7.gif)
+
+## Muslim discrimination in France
+![](https://i.imgur.com/pY47OiF.gif)
+
+![](https://i.imgur.com/2TV41j8.gif)
