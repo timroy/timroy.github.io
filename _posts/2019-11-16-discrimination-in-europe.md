@@ -15,7 +15,7 @@ I decided to plot the proportion of ethnic minorities who feel discriminated aga
 
 | Round | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Year | 2002 | 2004 | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2018 |
+| **Year** | 2002 | 2004 | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2018 |
 
 ## Discrimination in France
 ![](https://i.imgur.com/AG3msp0.gif)
