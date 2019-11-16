@@ -5,7 +5,7 @@ tags: [European Social Survey, discrimination, France, England, gganimate, ggplo
 header:
   image: "/images/europe-discrimination/france_islam_banner.jpg"
 excerpt: "European Social Survey, discrimination, France, England, gganimate, ggthemr, ggplot2, R"
-teaser: images/europe-discrimination/france_islam_banner.jpg
+teaser: images/euro-discr/france_islam_banner.jpg
 mathjax: "true"
 ---
 
