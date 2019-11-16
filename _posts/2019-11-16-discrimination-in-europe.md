@@ -18,11 +18,11 @@ I decided to plot the proportion of ethnic minorities who feel discriminated aga
 | **Year** | 2002 | 2004 | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2018 |
 
 ## Discrimination in France
-![](https://i.imgur.com/AG3msp0.gif)
+![](https://i.imgur.com/UTiWXh9.gif)
 
-![](https://i.imgur.com/s5WHHtY.gif)
+![](https://i.imgur.com/oMJYGXS.gif)
 
 ## Discrimination in England
-![](https://i.imgur.com/QRHOaPm.gif)
+![](https://i.imgur.com/hACryzm.gif)
 
-![](https://i.imgur.com/EfNjZRL.gif)
+![](https://i.imgur.com/4HHaUGr.gif)
