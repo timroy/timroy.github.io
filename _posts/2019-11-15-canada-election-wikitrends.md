@@ -37,12 +37,20 @@ Jagmeet Singh got more searches than Trudeau in 2019 and Andrew Scheer received 
 ## French Wikipedia Searches for Leaders
 ![](https://i.imgur.com/WFxqUlW.gif)
 
+French Wikipedia searches are markedly different. Gilles Duceppe in 2011 and Yves-Francois Blanchet in 2019 are searched for more than on English Wikipedia. The NDP leaders are also very popular in 2011 and 2019. Tom Mulcair was severely less popular than Jack Layton and Jagmeet Singh. As on English Wikipedia, Justin Trudeau was searched for most on French Wikipedia in his debut election in 2011.
+
 ## English Wikipedia Searches for Parties
 ![](https://i.imgur.com/h45OIix.gif)
+
+Party searches are correlated with leader searches but are more consistent over time because party searches are not entirely dependent on the party leader. Surprisingly, the Bloc Quebecois was the most searched for party on the day after the 2019 election and shows that these variables aren't always correlated. The Bloc Quebecois leader, Yves-Francois Blanchet, received slighly more than Elizabeth May in 2019, by contrast, the Bloc Quebecois party received several times more searches than the Green Party did. I suspect this had something to do with all the seats they gained. The NDP and Liberal Party have a similar number of searches, but the NDP is the most searched for party leading up to the election. 
 
 ## French Wikipedia Searches for Parties
 ![](https://i.imgur.com/2pGI6xg.gif)
 
+The Bloc Quebecois has an unprecedented several times more searches than all the other parties in the 2019 election on French Wikipedia and may point to a revival in Quebecois pride and separatism. In 2011, the NDP had most searches leading up to the election and the day after, and they also won **A LOT** of seats in Quebec. In 2015, the Conservatives lead in searches before the elections, but the Liberals win the election and end up having most searches the day of the election and after. The NDP also received more searches than the Conservatives in the few days surrounding the election.
 
+## Predicting the Proportional Vote with Wikipedia
+
+It would be interesting to look at whether Wikipedia searches could help predict the proportional representation vote. It is already clear that it isn't so great at predicting the first-past-the-post winner. 
 
 
