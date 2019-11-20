@@ -1,11 +1,11 @@
 ---
-title: "Canadian Elections Wikipedia Trends"
-date: 2019-11-15
+title: "Canadian Leader Wikipedia Trends Bar Chart Race"
+date: 2019-11-20
 tags: [wikipediatrend, gganimate, ggplot2, R, Canada, Canadian Elections]
 header:
-  image: "/images/canada-wikitrends/canada_leaders_crop.jpg"
+  image: "/images/canada-wikitrends/canada_parties.jpg"
   excerpt: "wikipediatrend, gganimate, ggplot2, R, Canada, Canadian Elections"
-  teaser: /images/canada-wikitrends/canada_leaders_crop.jpg
+  teaser: /images/canada-wikitrends/canada_parties.jpg
 mathjax: "true"
 ---
 
