@@ -1,5 +1,5 @@
 ---
-title: "Canadian Leaders Wikipedia Trends Bar Chart Race"
+title: "Canadian Leader Wikipedia Trends Bar Chart Race"
 date: 2019-11-20
 tags: [wikipediatrend, gganimate, ggplot2, R, Canada, Canadian Elections]
 header:
@@ -16,7 +16,8 @@ The data only goes back to December 2007.
 ### Party Leaders for Each Election
 
 ## English Wikipedia Page Views for Top 10 Leaders 
-![](https://i.imgur.com/k99fzj1.mp4)
+![](images/canada-wikitrends/wiki_race_fr.gif)
+
 
 ## French Wikipedia Page Views for Top 10 Leaders
-![](https://i.imgur.com/8d64fwZ.mp4)
+![](images/canada-wikitrends/wiki_race_fr.gif)
