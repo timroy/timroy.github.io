@@ -16,6 +16,6 @@ The data only goes back to December 2007.
 
 ### Party Leader Bar Chart Races
 
-GIF: <a href="/images/canada-wikitrends/wiki_race_en.gif" target="_blank" >## English Wikipedia Page Views for Top 10 Leaders </a> 
+## GIF: <a href="/images/canada-wikitrends/wiki_race_en.gif" target="_blank" > English Wikipedia Page Views for Top 10 Leaders </a> 
 
-GIF: <a href="/images/canada-wikitrends/wiki_race_fr.gif" target="_blank" >## French Wikipedia Page Views for Top 10 Leaders</a>
+## GIF: <a href="/images/canada-wikitrends/wiki_race_fr.gif" target="_blank" > French Wikipedia Page Views for Top 10 Leaders</a>
