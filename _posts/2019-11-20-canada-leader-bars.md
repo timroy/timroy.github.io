@@ -16,11 +16,6 @@ The data only goes back to December 2007.
 
 ### Party Leaders for Each Election
 
-## English Wikipedia Page Views for Top 10 Leaders 
-![](images/canada-wikitrends/wiki_race_en.gif)
-GIF: <a href="/images/canada-wikitrends/wiki_race_en.gif" target="_blank" >View in browser</a> | <a href="/images/canada-wikitrends/wiki_race_en.gif" download> Download</a>  
+GIF: <a href="/images/canada-wikitrends/wiki_race_en.gif" target="_blank" >## English Wikipedia Page Views for Top 10 Leaders </a> 
 
-
-## French Wikipedia Page Views for Top 10 Leaders
-![](images/canada-wikitrends/wiki_race_fr.gif)
-GIF: <a href="/images/canada-wikitrends/wiki_race_fr.gif" target="_blank" >View in browser</a> | <a href="/images/canada-wikitrends/wiki_race_fr.gif" download> Download</a>  
+GIF: <a href="/images/canada-wikitrends/wiki_race_fr.gif" target="_blank" >## French Wikipedia Page Views for Top 10 Leaders</a>
