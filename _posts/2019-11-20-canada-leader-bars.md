@@ -7,6 +7,7 @@ header:
   excerpt: "wikipediatrend, gganimate, ggplot2, R, Canada, Canadian Elections"
   teaser: /images/canada-wikitrends/canada_parties.jpg
 mathjax: "true"
+markdown: GFM
 ---
 
 Back again using [wikipediatrend](https://github.com/petermeissner/wikipediatrend0). This time its to create a bar chart race of the page views for all the most popular party leaders over time.
