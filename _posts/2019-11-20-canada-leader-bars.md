@@ -14,7 +14,7 @@ Back again using [wikipediatrend](https://github.com/petermeissner/wikipediatren
 
 The data only goes back to December 2007.
 
-### Party Leaders for Each Election
+### Party Leader Bar Chart Races
 
 GIF: <a href="/images/canada-wikitrends/wiki_race_en.gif" target="_blank" >## English Wikipedia Page Views for Top 10 Leaders </a> 
 
