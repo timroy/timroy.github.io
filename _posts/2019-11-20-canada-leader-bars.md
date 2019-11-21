@@ -20,3 +20,5 @@ Click on the links below to view the animations in full screen.
 ### GIF: <a href="/images/canada-wikitrends/wiki_race_en.gif" target="_blank" > English Wikipedia Page Views for Top 10 Leaders </a> 
 
 ### GIF: <a href="/images/canada-wikitrends/wiki_race_fr.gif" target="_blank" > French Wikipedia Page Views for Top 10 Leaders</a>
+
+Review the code in the [GitHub Repository](https://github.com/timroy/canada-leader-wikitrends).
