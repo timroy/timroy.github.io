@@ -14,8 +14,9 @@ Back again using [wikipediatrend](https://github.com/petermeissner/wikipediatren
 
 The data only goes back to December 2007.
 
-### Party Leader Bar Chart Races
+## Party Leader Bar Chart Races
+Click on the links below to view the animations in full screen.
 
-## GIF: <a href="/images/canada-wikitrends/wiki_race_en.gif" target="_blank" > English Wikipedia Page Views for Top 10 Leaders </a> 
+### GIF: <a href="/images/canada-wikitrends/wiki_race_en.gif" target="_blank" > English Wikipedia Page Views for Top 10 Leaders </a> 
 
-## GIF: <a href="/images/canada-wikitrends/wiki_race_fr.gif" target="_blank" > French Wikipedia Page Views for Top 10 Leaders</a>
+### GIF: <a href="/images/canada-wikitrends/wiki_race_fr.gif" target="_blank" > French Wikipedia Page Views for Top 10 Leaders</a>
