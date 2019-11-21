@@ -9,7 +9,7 @@ header:
 mathjax: "true"
 ---
 
-I was playing with the [wikipediatrend](https://github.com/petermeissner/wikipediatrend0) package in R, and thought it would be cool to compare the searches for each Canadian political party and leader in English and French for the 2011, 2015, and 2019 elections using [gganimate](https://github.com/thomasp85/gganimate).
+I was playing with the [wikipediatrend](https://github.com/petermeissner/wikipediatrend) package in R, and thought it would be cool to compare the searches for each Canadian political party and leader in English and French for the 2011, 2015, and 2019 elections using [gganimate](https://github.com/thomasp85/gganimate).
 
 I downloaded the trends for the 2 weeks leading up to the election day and the day after for the three last elections. I plotted tall and wide barplots side by side and animated over the three elections. Every year, the searches steadily rise in the days leading up to the election, jump after the day of the debate, rise higher on the day of the election, and **EXPLODE** the day after.
 
