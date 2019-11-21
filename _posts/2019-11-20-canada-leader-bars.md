@@ -10,7 +10,7 @@ mathjax: "true"
 markdown: GFM
 ---
 
-Back again using [wikipediatrend](https://github.com/petermeissner/wikipediatrend0). This time its to create a bar chart race of the page views for all the most popular party leaders over time.
+Back again using [wikipediatrend](https://github.com/petermeissner/wikipediatrend0). This time its to create a bar chart race of the page views for the top 10 party leaders for each day since 2008.
 
 The data only goes back to December 2007.
 
