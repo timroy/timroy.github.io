@@ -17,7 +17,7 @@ I downloaded the trends for the 2 weeks leading up to the election day and the d
 
 | Party |   2011           |         2015     |        2019      |
 |:-----:|:----------------:|:----------------:|:----------------:|
-|   BQ  | Gilles Duceppes  | Gilles Duceppes  |   Y-F Blanchet   |
+|   BQ  | Gilles Duceppe  | Gilles Duceppe  |   Y-F Blanchet   |
 |  NDP  | Jack Layton      |  Tom Mulcair     |  Jagmeet Singh   |
 |  Lib  | Michael Ignatief | Justin Trudeau   | Justin Trudeau   |
 |  Con  | Stephen Harper   | Stephen Harper   | Andrew Scheer    |
