@@ -41,7 +41,7 @@ I decided to repeat the above step, but by subsetting for Muslims only. In some 
 
 ![](https://i.imgur.com/bue5Bcw.gif)
 
-The trends for racial discrimination and religious discrimination for Muslims in France are opposite, with relgious discrimination rising to its highest in 2018 and racial discrimination lowering signficantly over time. Over time, people have been opting to say they are discrimianted against more because of their religion than their race. 
+The trends for racial discrimination and religious discrimination for Muslims in France are opposite, with relgious discrimination rising to its highest in 2018 and racial discrimination lowering signficantly over time. Over time, people have been to say they are discriminated against more because of their religion than their race. 
 
 The average proportion for racial discrimination and religious dirscrimination (represented by the horizontal dashed lines) are almost equal among French Muslims. In the plots for England below, Muslims report much higher religious didcrimination on average than racial discrimination. For both France and England, Muslims report being discriminated against more because of their religion than their race in 2016-2018.
 
