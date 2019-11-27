@@ -19,6 +19,8 @@ I decided to plot the proportion of ethnic minorities who feel discriminated aga
 
 # Discrimination of Ethnic Minorities
 
+Check out the code to create these plots in this [GitHub repository](https://github.com/timroy/discrimination-in-europe).
+
 ## Discrimination of Minorities in France
 ![](https://i.imgur.com/UTiWXh9.gif)
 
