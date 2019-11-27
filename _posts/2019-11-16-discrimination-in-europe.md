@@ -54,6 +54,30 @@ The average proportion for racial discrimination and religious dirscrimination (
 
 We're missing data for 2004 and 2006 which is when the London bombings happened, so we can't say too much about the trend over time, and the impact of traumatic events in England, but we do see the similar dip in 2010-2012 that we see in first plots.
 
+# Discrimination of Muslim and Minority Women
+
+Many activists have argued and studies have found that minority women face unique forms of discrimination that their male counterparts do not, for instance, the differential effect of donning the headscarf.
+
+## Minority Women in England
+![](https://i.imgur.com/CJ4vomB.gif)
+
+![](https://i.imgur.com/0GD1Gc6.gif)
+
+## Muslim Women in England
+![](https://i.imgur.com/4feKs10.gif)
+
+![](https://i.imgur.com/c20fqfI.gif)
+
+## Minority Women in France
+![](https://i.imgur.com/mjtpY09.gif)
+
+![](https://i.imgur.com/UnbAp3x.gif)
+
+## Muslim Women in France
+![](https://i.imgur.com/vD1oFeT.gif)
+
+![](https://i.imgur.com/29WLYeE.gif)
+
 ## Impactful Events, Discrimination, and Perceived Discrimination
 
 The curves dip after 9/11 and before the last 2 rounds which makes me think about the impact of 9/11 and the Charlie Hebdo and Bataclan events. It's a shame we're missing data for Muslims in England. Nevertheless, these plots highlight the possible effect of political climate on discrimination and perceived discrimination.
