@@ -1,5 +1,5 @@
 ---
-title: "Sciences Po Project: Discrimination in Europe"
+title: "An Intersectional & Comparitive Study of Discrimination & Policy in the United States and England"
 date: 2019-11-28
 tags: [Sciences Po, European Social Survey, discrimination, France, England, gganimate, ggplot2, R]
 header:
@@ -9,14 +9,19 @@ header:
 mathjax: "true"
 ---
 
-To listen to the podcast here: ![Discrimination Project](https://www.youtube.com/watch?v=EtIY00TNyUA)
+Tim Roy, Miguel Garcia Prieto, Ricardo Davis Huerta
 
-I am working on a project right now for a class at Sciences Po about discrimination. I figured I could look at how people have perceived being discriminated against over time using each round of the European Social Survey and practice my animation and visualization skills. I was really happy with [ggthemr](https://github.com/cttobin/ggthemr) who came through with the beautiful *"flat dark"* theme to match the website theme. 
+Dsicrimination and Anti-Discrimination: Literary, Historical, & Legal Approaches 
+ 
+Professor Helena Alviar
 
-I decided to plot the proportion of ethnic minorities who feel discriminated against in their country for France and England over time. The plots animate over time, and over different forms of discrimination. Bars represent 95% confidence intervals.
+Click on the following click to listen to the podcast: [An Intersectional & Comparitive Study of Discrimination & Policy in the United States and England]()
 
-Check out the code to create these plots in this [GitHub repository](https://github.com/timroy/discrimination-in-europe).
+Below are the plot's that we've created by analyzing survey data on perceived discrimination provided by the European Social Survey. The plots animate over all 9 rounds of the survey, from 2002 to 2018.
 
+The code to create these plots is hosted in this [GitHub repository](https://github.com/timroy/discrimination-in-europe).
+
+## Rounds of the European Social Survey
 | Round | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | **Year** | 2002 | 2004 | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2018 |
