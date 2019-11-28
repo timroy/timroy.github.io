@@ -107,5 +107,4 @@ The trends for minority women in France exhibit a similar U-shapes to the trends
 
 If we look at Muslim women in France, we don't see clear U-shapes for all trends for each form of discrimination. It seems only to be the case for racial discrimination. Again, racial and religious discrimination peak, and are above average in the last three years.
 
-## Intersectionality
 
