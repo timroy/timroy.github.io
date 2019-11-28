@@ -15,13 +15,20 @@ Dsicrimination and Anti-Discrimination: Literary, Historical, & Legal Approaches
  
 Professor Helena Alviar
 
-Click on the following click to listen to the podcast: [An Intersectional & Comparitive Study of Discrimination & Policy in the United States and England]()
+Course themes that are addressed:
+1. Intersectionality
+2. Racial Discrimination
+3. Legal Approaches to Anti-Discrimination
+
+Welcome to the blog which hosts Tim, Miguel, and Ricardo's project on discrimination in Europe and the United States.
+
+Click on the following to listen to the podcast: [An Intersectional & Comparitive Study of Discrimination & Policy in the United States and England]()
 
 Below are the plot's that we've created by analyzing survey data on perceived discrimination provided by the European Social Survey. The plots animate over all 9 rounds of the survey, from 2002 to 2018.
 
 The code to create these plots is hosted in this [GitHub repository](https://github.com/timroy/discrimination-in-europe).
 
-## Rounds of the European Social Survey
+The ESS was conducted between 2002 and 2018.
 
 | Round | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
