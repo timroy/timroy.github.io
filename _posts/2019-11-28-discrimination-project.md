@@ -24,6 +24,8 @@ Welcome to the blog which hosts Tim, Miguel, and Ricardo's project on discrimina
 
 Click on the following to listen to the podcast: [An Intersectional & Comparitive Study of Discrimination & Policy in the United States and England]()
 
+Click on the following link to see our bibliography: [Bibliography]()
+
 Below are the plot's that we've created by analyzing survey data on perceived discrimination provided by the European Social Survey. The plots animate over all 9 rounds of the survey, from 2002 to 2018.
 
 The code to create these plots is hosted in this [GitHub repository](https://github.com/timroy/discrimination-in-europe).
