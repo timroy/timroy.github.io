@@ -9,7 +9,7 @@ header:
 mathjax: "true"
 ---
 
-To listen to the podcast here: [Discrimination Project](https://www.youtube.com/watch?v=EtIY00TNyUA)
+To listen to the podcast here: ![Discrimination Project](https://www.youtube.com/watch?v=EtIY00TNyUA)
 
 I am working on a project right now for a class at Sciences Po about discrimination. I figured I could look at how people have perceived being discriminated against over time using each round of the European Social Survey and practice my animation and visualization skills. I was really happy with [ggthemr](https://github.com/cttobin/ggthemr) who came through with the beautiful *"flat dark"* theme to match the website theme. 
 
