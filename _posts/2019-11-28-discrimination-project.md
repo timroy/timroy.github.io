@@ -24,7 +24,7 @@ Presented to Professor Helena Alviar
 
 ## Click on the following to listen to the podcast: [An Intersectional & Comparitive Study of Discrimination & Policy in the United States and England]()
 
-Click on the following link to see our bibliography: [Bibliography]()
+Click on the following link to see our bibliography: <a href="/files/discr-bib.pdf" target="_blank" >View blbiography in browser</a>
 
 Below are the plot's that we've created by analyzing survey data on perceived discrimination provided by the European Social Survey. The plots animate over all 9 rounds of the survey, from 2002 to 2018.
 
