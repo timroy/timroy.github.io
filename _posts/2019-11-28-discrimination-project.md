@@ -9,22 +9,22 @@ header:
 mathjax: "true"
 ---
 
-Tim Roy, Miguel Garcia Prieto, Ricardo Davis Huerta
+Welcome to the blog which hosts Tim, Miguel, and Ricardo's project on discrimination in Europe and the United States.
 
-Dsicrimination and Anti-Discrimination: Literary, Historical, & Legal Approaches 
+Authors: Tim Roy, Miguel Garcia Prieto, Ricardo Davis Huerta
+
+Course: Dsicrimination and Anti-Discrimination: Literary, Historical, & Legal Approaches 
  
-Professor Helena Alviar
+Professor: Helena Alviar
 
-Course themes that are addressed:
+### Course themes that are addressed:
 1. Intersectionality
 2. Racial Discrimination
 3. Legal Approaches to Anti-Discrimination
 
-Welcome to the blog which hosts Tim, Miguel, and Ricardo's project on discrimination in Europe and the United States.
+## Click on the following to listen to the podcast: [An Intersectional & Comparitive Study of Discrimination & Policy in the United States and England]()
 
-Click on the following to listen to the podcast: [An Intersectional & Comparitive Study of Discrimination & Policy in the United States and England]()
-
-Click on the following link to see our bibliography: [Bibliography]()
+## Click on the following link to see our bibliography: [Bibliography]()
 
 Below are the plot's that we've created by analyzing survey data on perceived discrimination provided by the European Social Survey. The plots animate over all 9 rounds of the survey, from 2002 to 2018.
 
