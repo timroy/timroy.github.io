@@ -22,7 +22,7 @@ Presented to Professor Helena Alviar on 29 November 2019
 2. Racial Discrimination
 3. Legal Approaches to Anti-Discrimination
 
-## Click on the following to listen to the podcast: [An Intersectional & Comparitive Study of Discrimination & Policy in the United States and England]()
+## Click on the following to listen to the podcast: [An Intersectional & Comparitive Study of Discrimination & Policy in the United States and England](https://soundcloud.com/user-59836512/antidiscrimination-podcast)
 
 Click on the following link to see our bibliography: <a href="/files/discr-bib.pdf" target="_blank" >View bibliography in browser</a>
 
