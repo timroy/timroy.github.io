@@ -22,6 +22,7 @@ Below are the plot's that we've created by analyzing survey data on perceived di
 The code to create these plots is hosted in this [GitHub repository](https://github.com/timroy/discrimination-in-europe).
 
 ## Rounds of the European Social Survey
+
 | Round | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | **Year** | 2002 | 2004 | 2006 | 2008 | 2010 | 2012 | 2014 | 2016 | 2018 |
