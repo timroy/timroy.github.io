@@ -15,7 +15,7 @@ Tim Roy, Miguel Garcia Prieto, Ricardo Davis Huerta
 
 Course: Dsicrimination and Anti-Discrimination: Literary, Historical, & Legal Approaches 
  
-Presented to Professor Helena Alviar
+Presented to Professor Helena Alviar on 29 November 2019
 
 ### Course themes that are addressed:
 1. Intersectionality
