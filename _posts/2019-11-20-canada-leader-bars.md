@@ -10,7 +10,7 @@ mathjax: "true"
 markdown: GFM
 ---
 
-Back again using [wikipediatrend](https://github.com/petermeissner/wikipediatrend0). This time its to create a bar chart race of the page views for the top 10 party leaders for each day since 2008. You can see how fast Justin Trudeau and Jagmeet Singh's popularity grows relative to the other leaders.
+Back again using [wikipediatrend](https://github.com/petermeissner/wikipediatrend). This time its to create a bar chart race of the page views for the top 10 party leaders for each day since 2008. You can see how fast Justin Trudeau and Jagmeet Singh's popularity grows relative to the other leaders.
 
 Review the code in the [GitHub Repository](https://github.com/timroy/canada-leader-wikitrends).
 
