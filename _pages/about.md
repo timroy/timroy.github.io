@@ -5,7 +5,7 @@ header:
   image: "/images/plateau_banner.jpg"
 ---
 
-### Curriculum Vitae: <a href="/files/CV_TimRoy_Public_July2020.pdf" target="_blank" >View in browser</a> | <a href="/files/TimRoy_CV_2019.pdf" download> Download</a>  
+### Curriculum Vitae: <a href="/files/CV_TimRoy_Public_July2020.pdf" target="_blank" >View in browser</a> | <a href="/files/CV_TimRoy_Public_July2020.pdf" download> Download</a>  
 
 ### Presenting Myself
 I am a graduate data scientist and political scientist based in Montreal. 
