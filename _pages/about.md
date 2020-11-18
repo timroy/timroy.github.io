@@ -8,7 +8,7 @@ header:
 ### Curriculum Vitae: <a href="/files/CV_TimRoy_Public_July2020.pdf" target="_blank" >View in browser</a> | <a href="/files/CV_TimRoy_Public_July2020.pdf" download> Download</a>  
 
 ### Presenting Myself
-I am a graduate data scientist and political scientist based in Montreal. 
+I am a graduate political scientist with a focus on data science. I'm based in Montreal. 
 
 I completed my undergraduate degree at McGill University, where I studied political science, history, and Russian. I was awarded the Guy Drummond Fellowship to start my Masters at McGill and spend a year studying at Sciences Po Paris. The fellowship is awarded to the top two graduating students in the political science department. I now work as a research assistant at <a href="http://www.aaronerlich.com/demotip-laboratory"> DemoTIP Lab</a>, where I mostly perform data science, and I am a member of the <a href="https://csdc-cecd.ca/"> Centre for the Study of Democratic Citizenship</a>. My research interests are Canadian politics, Middle-Eastern and Post-Soviet area studies, transparency, disinformation, and conspiracies. 
 
